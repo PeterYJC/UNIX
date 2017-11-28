@@ -1,3 +1,6 @@
+#!/bin/sh
+#Author:PeterYJC (yjcpeter@gmail.com)
+
 if [ $# -eq 1 ]
 then
         who | cut -c 1-6 >user

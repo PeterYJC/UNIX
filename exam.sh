@@ -1,3 +1,7 @@
+#!/bin/sh
+#Author:PeterYJC (yjcpeter@gmail.com)
+
+
 if [ $# -eq 1 ]
 then
         INPUT="input"
@@ -16,4 +20,3 @@ then
 else
         echo "Usage: examl filename"
 fi
-

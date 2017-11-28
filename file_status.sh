@@ -1,3 +1,6 @@
+#!/bin/sh
+#Author:PeterYJC (yjcpeter@gmail.com)
+
 clear
 echo "Please enter the target filename:"
 read file
@@ -23,4 +26,3 @@ done
     echo "Ten times over then exit!"
 clear
 exit
-
